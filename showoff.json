@@ -1,0 +1,11 @@
+{ "name": "Contributing with Git",
+  "sections": [
+    {"section":"title"},
+    {"section":"about_me"},
+    {"section":"intro"},
+    {"section":"central_repos"},
+    {"section":"mailing_lists"},
+    {"section":"personal_repos"},
+    {"section":"github"},
+    {"section":"final"}
+  ]}
