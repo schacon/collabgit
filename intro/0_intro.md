@@ -115,54 +115,5 @@
 !SLIDE center
 ![](stuff/stuff.052.jpg)
 
-!SLIDE center
-![](stuff/stuff.053.jpg)
 
-!SLIDE center
-![](stuff/stuff.054.jpg)
-
-!SLIDE center
-![](stuff/stuff.055.jpg)
-
-!SLIDE center
-![](stuff/stuff.056.jpg)
-
-!SLIDE center
-![](stuff/stuff.057.jpg)
-
-!SLIDE center
-![](stuff/stuff.058.jpg)
-
-!SLIDE center
-![](stuff/stuff.059.jpg)
-
-!SLIDE center
-![](stuff/stuff.060.jpg)
-
-!SLIDE center
-![](stuff/stuff.061.jpg)
-
-!SLIDE center
-![](stuff/stuff.062.jpg)
-
-!SLIDE center
-![](stuff/stuff.063.jpg)
-
-!SLIDE center
-![](stuff/stuff.064.jpg)
-
-!SLIDE center
-![](stuff/stuff.065.jpg)
-
-!SLIDE center
-![](stuff/stuff.066.jpg)
-
-!SLIDE center
-![](stuff/stuff.067.jpg)
-
-!SLIDE center
-![](stuff/stuff.068.jpg)
-
-!SLIDE center
-![](stuff/stuff.069.jpg)
 

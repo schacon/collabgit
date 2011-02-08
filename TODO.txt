@@ -1,0 +1,7 @@
+* applying patches via email
+* accepting pull requests, managing contributors
+* github section
+
+* README instructions
+
+* slides online

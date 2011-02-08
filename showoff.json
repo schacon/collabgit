@@ -3,6 +3,7 @@
     {"section":"title"},
     {"section":"about_me"},
     {"section":"intro"},
+    {"section":"commit_guide"},
     {"section":"central_repos"},
     {"section":"mailing_lists"},
     {"section":"personal_repos"},
