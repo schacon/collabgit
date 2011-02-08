@@ -2,6 +2,6 @@
 
 # Contributing with Git #
 
-### by Scott Chacon ###
+## by Scott Chacon ##
 
-
+### http://bit.ly/gitcontrib ###
