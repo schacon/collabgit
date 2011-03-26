@@ -43,13 +43,5 @@
     $ (test)
     $ git push origin master
 
-!SLIDE bullets incremental
-
-# Possible Team Rules #
-
-* always --no-ff merge topic branches into master
-* always rebase work onto master
-
-
 
 
