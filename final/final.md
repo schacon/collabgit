@@ -4,15 +4,6 @@
 
 !SLIDE
 
-# Patrick's Irish Pub
-
-## Tomorrow, 8pm
-
-### https://github.com/blog
-
-
-!SLIDE
-
 # questions?
 
 !SLIDE bullets incremental small
